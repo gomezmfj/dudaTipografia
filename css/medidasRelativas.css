@@ -1,0 +1,39 @@
+body{
+	font-size: 16px;
+}
+
+p.em{
+	font-size: 2em;
+}
+
+/*div p{
+	font-size: 2em;
+}*/
+
+div p.rem{
+	font-size: 3rem;
+}
+
+p.ex{
+	font-size: 2ex;
+}
+
+div.fija{
+	height: 100px;
+	width: 100px;
+	background: red;
+}
+
+div.porcentual{
+	height: 100px;
+	width: 50%;
+	background: green;
+}
+
+div.margenes{
+	width: 100px;
+	height: 100px;
+	border: 2px solid black;
+	margin: 20px;
+	padding: 20px;
+}

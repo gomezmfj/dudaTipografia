@@ -1,0 +1,35 @@
+font-face{
+    font-family: "MiFuente";
+    src: url("kawoszeh-gen.eot");
+    src: local('?'),
+        url("kawoszeh-gen.woff") format("woff"),
+        url("kawoszeh-gen.ttf") format("truetype"),
+        url("kawoszeh-gen.svg") format("svg");
+    
+}
+
+
+
+p{
+    font-family: "MiFuente", Arial;
+}
+
+header h2, h3 {
+	color: red;
+}
+
+#azul{
+	color: yellow
+}
+
+.prueba{
+	color: green;
+}
+
+.prueba2{
+	font-size: 25px;
+}
+
+h2[title="main"]{
+	color: pink;
+}
