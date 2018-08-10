@@ -1,17 +1,18 @@
-font-face{
+@font-face{
     font-family: "MiFuente";
-    src: url("kawoszeh-gen.eot");
+    src: url("../kawoszeh-gen.eot");
     src: local('?'),
-        url("kawoszeh-gen.woff") format("woff"),
-        url("kawoszeh-gen.ttf") format("truetype"),
-        url("kawoszeh-gen.svg") format("svg");
+        url("../kawoszeh-gen.woff") format("woff"),
+        url("../kawoszeh-gen.ttf") format("truetype"),
+        url("../kawoszeh-gen.svg") format("svg");
     
 }
 
 
 
-p{
+.PruebaFuente{
     font-family: "MiFuente", Arial;
+    color: red;
 }
 
 header h2, h3 {
