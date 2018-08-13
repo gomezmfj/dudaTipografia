@@ -1,10 +1,10 @@
 @font-face{
     font-family: "MiFuente";
-    src: url("../kawoszeh-gen.eot");
+    src: url("../font/kawoszeh-gen.eot");
     src: local('?'),
-        url("../kawoszeh-gen.woff") format("woff"),
-        url("../kawoszeh-gen.ttf") format("truetype"),
-        url("../kawoszeh-gen.svg") format("svg");
+        url("../font/kawoszeh-gen.woff") format("woff"),
+        url("../font/kawoszeh-gen.ttf") format("truetype"),
+        url("../font/kawoszeh-gen.svg") format("svg");
     
 }
 
